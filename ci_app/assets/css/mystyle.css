@@ -1,0 +1,8 @@
+.badge {
+    text-decoration: none;
+    margin-left: 3px;
+}
+
+.badge:active {
+    scale: 0.8;
+}
