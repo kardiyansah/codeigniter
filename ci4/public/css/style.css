@@ -1,0 +1,15 @@
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.cover {
+  width: 80px;
+}
+
+.img-fluid.rounded-start {
+  height: 100%;
+}
+
+.btn:active {
+  scale: .8;
+}
